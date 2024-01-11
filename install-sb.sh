@@ -1,8 +1,8 @@
 #!/bin/bash
 #Sysupdate
-sudo apt-get update 
+apt update 
 #Python
-sudo apt-get install python
+apt install python
 #gmail
 git clone https://github.com/Ha3MrX/Gemail-Hack.git
 #facebook
