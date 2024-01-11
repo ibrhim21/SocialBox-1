@@ -2,7 +2,7 @@
 SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi
 # Installation
 ```
-sudo apt-get install git
+apt install git
 git clone https://github.com/TunisianEagles/SocialBox.git
 cd SocialBox
 chmod +x SocialBox.sh
